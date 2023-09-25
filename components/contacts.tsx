@@ -77,7 +77,8 @@ const Contacts = () => {
             Let us know how we can help
           </h2>
           <p>
-            We are here to help you and answer any questions you may have. We look forward to hearing from you.
+            We are here to help you and answer any questions you may have. We look forward to
+            hearing from you.
           </p>
         </div>
         <div className="mt-24">

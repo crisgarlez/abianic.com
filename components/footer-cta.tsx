@@ -9,7 +9,8 @@ const FooterCTA = () => (
           Get started with Abianic today
         </h2>
         <p className="mt-3 text-gray-600">
-          Hire experts to create your next idea, follow best practices, remove obstacles, and deliver on time.
+          Hire experts to create your next idea, follow best practices, remove obstacles, and
+          deliver on time.
         </p>
         <a
           href="https://calendly.com/abianic/30min"

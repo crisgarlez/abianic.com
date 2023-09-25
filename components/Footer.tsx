@@ -56,9 +56,9 @@ const socialInfo = [
         strokeWidth="2"
         className="lucide lucide-instagram relative"
         viewBox="0 0 24 24"
-        fill="none" 
+        fill="none"
       >
-        {/* Define el gradiente lineal */} 
+        {/* Define el gradiente lineal */}
         <defs>
           <linearGradient id="gradient3" x1="0%" y1="0%" x2="100%" y2="0%">
             <stop offset="0%" stopColor="rgba(167, 89, 109, 1)" />

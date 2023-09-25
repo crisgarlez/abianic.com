@@ -19,7 +19,9 @@ const CTA = () => {
               Create successful business models with our IT solutions
             </h2>
             <p className="mt-3 text-gray-600">
-              Abianic, a software development company, helps digitize businesses by focusing on clients' business challenges and needs. We value close and transparent cooperation and encourage our clients to actively participate in the project development life cycle.
+              Abianic, a software development company, helps digitize businesses by focusing on
+              clients' business challenges and needs. We value close and transparent cooperation and
+              encourage our clients to actively participate in the project development life cycle.
             </p>
             <a
               href="https://calendly.com/abianic/30min"
